@@ -16,3 +16,5 @@ env/
 # IDE files
 .vscode/
 .idea/
+
+text.file
